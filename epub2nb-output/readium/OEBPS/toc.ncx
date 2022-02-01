@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Chrám Matky Boží v Paříži</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kniha první</text>
+      </navLabel>
+      <content src="Text/chram_matky_bozi_v_parizi_006.xhtml#toc_marker-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>I. Velký sál</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_006.xhtml#toc_marker-1-1"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>II. Petr Gringoire</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_006.xhtml#toc_marker-1-2"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>III. Pan kardinál</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_006.xhtml#toc_marker-1-3"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>IV. Mistr Jakub Coppenole</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_006.xhtml#toc_marker-1-4"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>V. Quasimodo</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_006.xhtml#toc_marker-1-5"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>VI. Esmeralda</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_006.xhtml#toc_marker-1-6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Kniha druhá</text>
+      </navLabel>
+      <content src="Text/chram_matky_bozi_v_parizi_007.xhtml#toc_marker-2"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>I. Z Charybdy do Scylly</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_007.xhtml#toc_marker-2-1"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>II. Náměstí Grève</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_007.xhtml#toc_marker-2-2"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>III. Besos para golpes</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_007.xhtml#toc_marker-2-3"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>IV. Jaké nehody mohou stihnout toho, kdo sleduje večer hezkou ženu na ulici</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_007.xhtml#toc_marker-2-4"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>V. Nehody pokračují</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_007.xhtml#toc_marker-2-5"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>VI. Rozbitý džbán</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_007.xhtml#toc_marker-2-6"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>VII. Svatební noc</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_007.xhtml#toc_marker-2-7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Kniha třetí</text>
+      </navLabel>
+      <content src="Text/chram_matky_bozi_v_parizi_008.xhtml#toc_marker-3"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>I. Chrám Matky Boží</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_008.xhtml#toc_marker-3-1"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>II. Paříž z ptačí perspektivy</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_008.xhtml#toc_marker-3-2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Kniha čtvrtá</text>
+      </navLabel>
+      <content src="Text/chram_matky_bozi_v_parizi_009.xhtml#toc_marker-4"/>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>I. Dobrá duše</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_009.xhtml#toc_marker-4-1"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>II. Klaudius Frollo</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_009.xhtml#toc_marker-4-2"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>III. Immanis pecoris custos, immanior ipse</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_009.xhtml#toc_marker-4-3"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>IV. Pes a jeho pán</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_009.xhtml#toc_marker-4-4"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>V. Pokračování vyprávění o Klaudiu Frollovi</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_009.xhtml#toc_marker-4-5"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>VI. Neoblíbenost</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_009.xhtml#toc_marker-4-6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Kniha pátá</text>
+      </navLabel>
+      <content src="Text/chram_matky_bozi_v_parizi_010.xhtml#toc_marker-5"/>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>I. Abbas beati Martini</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_010.xhtml#toc_marker-5-1"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>II. Toto zabije ono</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_010.xhtml#toc_marker-5-2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Kniha šestá</text>
+      </navLabel>
+      <content src="Text/chram_matky_bozi_v_parizi_011.xhtml#toc_marker-6"/>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>I. Nestranný pohled na tehdejší soudnictví</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_011.xhtml#toc_marker-6-1"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>II. Myší díra</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_011.xhtml#toc_marker-6-2"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>III. Příběh s kukuřičnou plackou</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_011.xhtml#toc_marker-6-3"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>IV. Slza za kapku vody</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_011.xhtml#toc_marker-6-4"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>V. Konec příběhu s kukuřičnou plackou</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_011.xhtml#toc_marker-6-5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Kniha sedmá</text>
+      </navLabel>
+      <content src="Text/chram_matky_bozi_v_parizi_012.xhtml#toc_marker-7"/>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>I. O tom, jak je nebezpečné svěřit tajemství koze</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_012.xhtml#toc_marker-7-1"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>II. O tom, že kněz a filozof je dvojí</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_012.xhtml#toc_marker-7-2"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>III. Zvony</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_012.xhtml#toc_marker-7-3"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>IV. ’АNÁГKH</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_012.xhtml#toc_marker-7-4"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>V. Dva muži v černém</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_012.xhtml#toc_marker-7-5"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>VI. Jaký následek může mít sedmeré zaklení pod širým nebem</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_012.xhtml#toc_marker-7-6"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>VII. Zamračený mnich</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_012.xhtml#toc_marker-7-7"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>VIII. K čemu jsou dobrá okna obrácená k řece</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_012.xhtml#toc_marker-7-8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Kniha osmá</text>
+      </navLabel>
+      <content src="Text/chram_matky_bozi_v_parizi_013.xhtml#toc_marker-8"/>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>I. O tolaru proměněném v suchý list</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_013.xhtml#toc_marker-8-1"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>II. Pokračování příběhu o tolaru proměněném v suchý list</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_013.xhtml#toc_marker-8-2"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>III. Konec příběhu o tolaru proměněném v suchý list</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_013.xhtml#toc_marker-8-3"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>IV. Lasciate ogni speranza</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_013.xhtml#toc_marker-8-4"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>V. Matka</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_013.xhtml#toc_marker-8-5"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>VI. Tři mužská srdce – každé jiné</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_013.xhtml#toc_marker-8-6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Kniha devátá</text>
+      </navLabel>
+      <content src="Text/chram_matky_bozi_v_parizi_014.xhtml#toc_marker-9"/>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>I. Horečka</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_014.xhtml#toc_marker-9-1"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>II. Hrbatý, jednooký, kulhavý</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_014.xhtml#toc_marker-9-2"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>III. Hluchý</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_014.xhtml#toc_marker-9-3"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>IV. Hlína a křišťál</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_014.xhtml#toc_marker-9-4"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>V. Klíč k červené brance</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_014.xhtml#toc_marker-9-5"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>VI. Pokračování kapitoly o klíči k červené brance</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_014.xhtml#toc_marker-9-6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Kniha desátá</text>
+      </navLabel>
+      <content src="Text/chram_matky_bozi_v_parizi_015.xhtml#toc_marker-10"/>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>I. V Bernardinské ulici má Gringoireřadu dobrých nápadů</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_015.xhtml#toc_marker-10-1"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>II. Staňte se tulákem!</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_015.xhtml#toc_marker-10-2"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>III. Ať žije veselost!</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_015.xhtml#toc_marker-10-3"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>IV. Neobratný přítel</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_015.xhtml#toc_marker-10-4"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>V. Ústraní, kde se modlí pan Ludvík Francouzský</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_015.xhtml#toc_marker-10-5"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>VI. Mečík v kapse</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_015.xhtml#toc_marker-10-6"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>VII. Châteaupers na pomoc!</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_015.xhtml#toc_marker-10-7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>Kniha jedenáctá</text>
+      </navLabel>
+      <content src="Text/chram_matky_bozi_v_parizi_016.xhtml#toc_marker-11"/>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>I. Botička</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_016.xhtml#toc_marker-11-1"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>II. La creatura bella bianco vestita (Dante)</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_016.xhtml#toc_marker-11-2"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>III. Phoebova svatba</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_016.xhtml#toc_marker-11-3"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>IV. Quasimodova svatba</text>
+        </navLabel>
+        <content src="Text/chram_matky_bozi_v_parizi_016.xhtml#toc_marker-11-4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>Hugova poznámka k osmému francouzskému vydání z roku 1832</text>
+      </navLabel>
+      <content src="Text/chram_matky_bozi_v_parizi_017.xhtml#toc_marker-12"/>
+    </navPoint>
+  </navMap>
+</ncx>
