@@ -12,10 +12,7 @@ meta:
   publisherShort: mkp
   languageCode: cs
 readingOrder:
-  - chram_matky_bozi_v_parizi_001.html
   - chram_matky_bozi_v_parizi_002.html
-  - chram_matky_bozi_v_parizi_003.html
-  - chram_matky_bozi_v_parizi_004.html
   - chram_matky_bozi_v_parizi_005.html
   - chram_matky_bozi_v_parizi_006.html
   - chram_matky_bozi_v_parizi_007.html
@@ -29,11 +26,51 @@ readingOrder:
   - chram_matky_bozi_v_parizi_015.html
   - chram_matky_bozi_v_parizi_016.html
   - chram_matky_bozi_v_parizi_017.html
-  - chram_matky_bozi_v_parizi_018.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: chram_matky_bozi_v_parizi_005.html
+        title: Je tomu několik let...
+        hiddenTitle: true
+      - link: chram_matky_bozi_v_parizi_006.html
+        title: Kniha první
+        hiddenTitle: false
+      - link: chram_matky_bozi_v_parizi_007.html
+        title: Kniha druhá
+        hiddenTitle: false
+      - link: chram_matky_bozi_v_parizi_008.html
+        title: Kniha třetí
+        hiddenTitle: false
+      - link: chram_matky_bozi_v_parizi_009.html
+        title: Kniha čtvrtá
+        hiddenTitle: false
+      - link: chram_matky_bozi_v_parizi_010.html
+        title: Kniha pátá
+        hiddenTitle: false
+      - link: chram_matky_bozi_v_parizi_011.html
+        title: Kniha šestá
+        hiddenTitle: false
+      - link: chram_matky_bozi_v_parizi_012.html
+        title: Kniha sedmá
+        hiddenTitle: false
+      - link: chram_matky_bozi_v_parizi_013.html
+        title: Kniha osmá
+        hiddenTitle: false
+      - link: chram_matky_bozi_v_parizi_014.html
+        title: Kniha devátá
+        hiddenTitle: false
+      - link: chram_matky_bozi_v_parizi_015.html
+        title: Kniha desátá
+        hiddenTitle: false
+      - link: chram_matky_bozi_v_parizi_016.html
+        title: Kniha jedenáctá
+        hiddenTitle: false
+      - link: chram_matky_bozi_v_parizi_017.html
+        title: "Hugova poznámka k\_osmému francouzskému vydání z\_roku 1832"
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
