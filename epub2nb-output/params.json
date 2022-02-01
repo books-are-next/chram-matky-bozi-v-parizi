@@ -33,14 +33,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "chram_matky_bozi_v_parizi_001.md",
             "xhtml": "chram_matky_bozi_v_parizi_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -48,9 +49,9 @@
             "filename": "chram_matky_bozi_v_parizi_002.md",
             "xhtml": "chram_matky_bozi_v_parizi_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -58,9 +59,9 @@
             "filename": "chram_matky_bozi_v_parizi_003.md",
             "xhtml": "chram_matky_bozi_v_parizi_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -68,9 +69,9 @@
             "filename": "chram_matky_bozi_v_parizi_004.md",
             "xhtml": "chram_matky_bozi_v_parizi_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -81,8 +82,9 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Je tomu několik let..."
           },
           {
             "filename": "chram_matky_bozi_v_parizi_006.md",
@@ -92,7 +94,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kniha první"
           },
           {
             "filename": "chram_matky_bozi_v_parizi_007.md",
@@ -102,7 +105,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kniha druhá"
           },
           {
             "filename": "chram_matky_bozi_v_parizi_008.md",
@@ -112,7 +116,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kniha třetí"
           },
           {
             "filename": "chram_matky_bozi_v_parizi_009.md",
@@ -122,7 +127,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kniha čtvrtá"
           },
           {
             "filename": "chram_matky_bozi_v_parizi_010.md",
@@ -132,7 +138,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kniha pátá"
           },
           {
             "filename": "chram_matky_bozi_v_parizi_011.md",
@@ -142,7 +149,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kniha šestá"
           },
           {
             "filename": "chram_matky_bozi_v_parizi_012.md",
@@ -152,7 +160,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kniha sedmá"
           },
           {
             "filename": "chram_matky_bozi_v_parizi_013.md",
@@ -162,7 +171,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kniha osmá"
           },
           {
             "filename": "chram_matky_bozi_v_parizi_014.md",
@@ -172,7 +182,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kniha devátá"
           },
           {
             "filename": "chram_matky_bozi_v_parizi_015.md",
@@ -182,7 +193,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kniha desátá"
           },
           {
             "filename": "chram_matky_bozi_v_parizi_016.md",
@@ -192,7 +204,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kniha jedenáctá"
           },
           {
             "filename": "chram_matky_bozi_v_parizi_017.md",
@@ -202,15 +215,16 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Hugova poznámka k osmému francouzskému vydání z roku 1832"
           },
           {
             "filename": "chram_matky_bozi_v_parizi_018.md",
             "xhtml": "chram_matky_bozi_v_parizi_018.xhtml",
             "id": 17,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           }
@@ -224,7 +238,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Victor Hugo",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-01T09:07:33.788Z"
+      "modified": "2022-02-01T09:16:23.520Z"
     },
     "chapters": [
       {
@@ -428,6 +442,6 @@
       "user": "books-are-next",
       "repo": "chram-matky-bozi-v-parizi"
     },
-    "generatedAt": 1643706455309
+    "generatedAt": 1643706985148
   }
 }

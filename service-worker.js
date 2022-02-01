@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-64fa1a3';
+const CACHE = 'cache-b18181b';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./chram_matky_bozi_v_parizi_001.html","./chram_matky_bozi_v_parizi_002.html","./chram_matky_bozi_v_parizi_003.html","./chram_matky_bozi_v_parizi_004.html","./chram_matky_bozi_v_parizi_005.html","./chram_matky_bozi_v_parizi_006.html","./chram_matky_bozi_v_parizi_007.html","./chram_matky_bozi_v_parizi_008.html","./chram_matky_bozi_v_parizi_009.html","./chram_matky_bozi_v_parizi_010.html","./chram_matky_bozi_v_parizi_011.html","./chram_matky_bozi_v_parizi_012.html","./chram_matky_bozi_v_parizi_013.html","./chram_matky_bozi_v_parizi_014.html","./chram_matky_bozi_v_parizi_015.html","./chram_matky_bozi_v_parizi_016.html","./chram_matky_bozi_v_parizi_017.html","./chram_matky_bozi_v_parizi_018.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_chram_matky_bozi_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./chram_matky_bozi_v_parizi_005.html","./chram_matky_bozi_v_parizi_006.html","./chram_matky_bozi_v_parizi_002.html","./chram_matky_bozi_v_parizi_007.html","./chram_matky_bozi_v_parizi_008.html","./chram_matky_bozi_v_parizi_009.html","./chram_matky_bozi_v_parizi_010.html","./chram_matky_bozi_v_parizi_011.html","./chram_matky_bozi_v_parizi_012.html","./chram_matky_bozi_v_parizi_013.html","./chram_matky_bozi_v_parizi_014.html","./chram_matky_bozi_v_parizi_015.html","./chram_matky_bozi_v_parizi_016.html","./chram_matky_bozi_v_parizi_017.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_chram_matky_bozi_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {
