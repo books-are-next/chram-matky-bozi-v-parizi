@@ -1,0 +1,813 @@
+{
+  "author": "Victor Hugo",
+  "edition": "beletrie",
+  "identifier": "hugo-chram-matky-bozi-v-parizi-64fa1a3",
+  "languagecode": "cs",
+  "modified": "2022-02-01T08:07:40.187Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Chrám Matky Boží v Paříži",
+  "revision": "64fa1a3",
+  "generatedAt": {
+    "date": "Tue Feb 01 2022 09:08:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1643706521999
+  },
+  "documents": [
+    {
+      "title": "Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "chram_matky_bozi_v_parizi_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "chram_matky_bozi_v_parizi_001.html",
+      "next": "chram_matky_bozi_v_parizi_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_003.html",
+      "words": 10,
+      "chars": 61,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 2,
+      "prev": "chram_matky_bozi_v_parizi_002.html",
+      "next": "chram_matky_bozi_v_parizi_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_004.html",
+      "words": 96,
+      "chars": 612,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "chram_matky_bozi_v_parizi_003.html",
+      "next": "chram_matky_bozi_v_parizi_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_005.html",
+      "words": 239,
+      "chars": 1434,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 4,
+      "prev": "chram_matky_bozi_v_parizi_004.html",
+      "next": "chram_matky_bozi_v_parizi_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kniha první • Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_006.html",
+      "words": 13934,
+      "chars": 89126,
+      "ideas": 432,
+      "role": "chapter",
+      "order": 5,
+      "prev": "chram_matky_bozi_v_parizi_005.html",
+      "next": "chram_matky_bozi_v_parizi_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kniha první",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I. Velký sál",
+              "id": "ivelký-sál",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II. Petr Gringoire",
+              "id": "iipetr-gringoire",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III. Pan kardinál",
+              "id": "iiipan-kardinál",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV. Mistr Jakub Coppenole",
+              "id": "ivmistr-jakub-coppenole",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V. Quasimodo",
+              "id": "vquasimodo",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "VI. Esmeralda",
+              "id": "viesmeralda",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kniha druhá • Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_007.html",
+      "words": 13880,
+      "chars": 86821,
+      "ideas": 474,
+      "role": "chapter",
+      "order": 6,
+      "prev": "chram_matky_bozi_v_parizi_006.html",
+      "next": "chram_matky_bozi_v_parizi_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kniha druhá",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I. Z Charybdy do Scylly",
+              "id": "izcharybdy-donbspscylly",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II. Náměstí Grève",
+              "id": "iináměstí-grève",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III. Besos para golpes1",
+              "id": "iiibesos-para-golpes16",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV. Jaké nehody mohou stihnout toho,",
+              "id": "ivjaké-nehody-mohou-stihnout-toho",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V. Nehody pokračují",
+              "id": "vnehody-pokračují",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "VI. Rozbitý džbán",
+              "id": "virozbitý-džbán",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "VII. Svatební noc",
+              "id": "viisvatební-noc",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kniha třetí • Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_008.html",
+      "words": 10234,
+      "chars": 66718,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 7,
+      "prev": "chram_matky_bozi_v_parizi_007.html",
+      "next": "chram_matky_bozi_v_parizi_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kniha třetí",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I. Chrám Matky Boží",
+              "id": "ichrám-matky-boží",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II. Paříž z ptačí perspektivy",
+              "id": "iipaříž-zptačí-perspektivy",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kniha čtvrtá • Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_009.html",
+      "words": 7490,
+      "chars": 46997,
+      "ideas": 127,
+      "role": "chapter",
+      "order": 8,
+      "prev": "chram_matky_bozi_v_parizi_008.html",
+      "next": "chram_matky_bozi_v_parizi_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kniha čtvrtá",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I. Dobrá duše",
+              "id": "idobrá-duše",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II. Klaudius Frollo",
+              "id": "iiklaudius-frollo",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III. Immanis pecoris custos, immanior ipse5",
+              "id": "iiiimmanis-pecoris-custos-immanior-ipse48",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV. Pes a jeho pán",
+              "id": "ivpes-ajeho-pán",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V. Pokračování vyprávění o Klaudiu Frollovi",
+              "id": "vpokračování-vyprávění-oklaudiu-frollovi",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "VI. Neoblíbenost",
+              "id": "vineoblíbenost",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kniha pátá • Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_010.html",
+      "words": 7432,
+      "chars": 48455,
+      "ideas": 156,
+      "role": "chapter",
+      "order": 9,
+      "prev": "chram_matky_bozi_v_parizi_009.html",
+      "next": "chram_matky_bozi_v_parizi_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kniha pátá",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I. Abbas beati Martini1",
+              "id": "iabbas-beati-martini60",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II. Toto zabije ono",
+              "id": "iitoto-zabije-ono",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kniha šestá • Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_011.html",
+      "words": 13297,
+      "chars": 82885,
+      "ideas": 314,
+      "role": "chapter",
+      "order": 10,
+      "prev": "chram_matky_bozi_v_parizi_010.html",
+      "next": "chram_matky_bozi_v_parizi_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kniha šestá",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I. Nestranný pohled na tehdejší soudnictví",
+              "id": "inestranný-pohled-nanbsptehdejší-soudnictví",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II. Myší díra",
+              "id": "iimyší-díra",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III. Příběh s kukuřičnou plackou",
+              "id": "iiipříběh-skukuřičnou-plackou",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV. Slza za kapku vody",
+              "id": "ivslza-zanbspkapku-vody",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V. Konec příběhu s kukuřičnou plackou",
+              "id": "vkonec-příběhu-skukuřičnou-plackou",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kniha sedmá • Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_012.html",
+      "words": 18236,
+      "chars": 112967,
+      "ideas": 633,
+      "role": "chapter",
+      "order": 11,
+      "prev": "chram_matky_bozi_v_parizi_011.html",
+      "next": "chram_matky_bozi_v_parizi_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kniha sedmá",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I. O tom, jak je nebezpečné svěřit tajemství koze",
+              "id": "iotom-jak-jenbspnebezpečné-svěřit-tajemství-koze",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II. O tom, že kněz a filozof je dvojí",
+              "id": "iiotom-ženbspkněz-afilozof-jenbspdvojí",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III. Zvony",
+              "id": "iiizvony",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV. ’АNÁГKH3",
+              "id": "ivаnáгkh97",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V. Dva muži v černém",
+              "id": "vdva-muži-včerném",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "VI. Jaký následek může mít sedmeré zaklení pod širým nebem",
+              "id": "vijaký-následek-může-mít-sedmeré-zaklení-podširým-nebem",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "VII. Zamračený mnich",
+              "id": "viizamračený-mnich",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "VIII. K čemu jsou dobrá okna obrácená k řece",
+              "id": "viiikčemu-jsou-dobrá-okna-obrácená-křece",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kniha osmá • Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_013.html",
+      "words": 15123,
+      "chars": 92594,
+      "ideas": 404,
+      "role": "chapter",
+      "order": 12,
+      "prev": "chram_matky_bozi_v_parizi_012.html",
+      "next": "chram_matky_bozi_v_parizi_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kniha osmá",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I. O tolaru proměněném v suchý list",
+              "id": "iotolaru-proměněném-vsuchý-list",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II. Pokračování příběhu o tolaru proměněném v suchý list",
+              "id": "iipokračování-příběhu-otolaru-proměněném-vsuchý-list",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III. Konec příběhu o tolaru proměněném v suchý list",
+              "id": "iiikonec-příběhu-otolaru-proměněném-vsuchý-list",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV. Lasciate ogni speranza4",
+              "id": "ivlasciate-ogni-speranza132",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V. Matka",
+              "id": "vmatka",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "VI. Tři mužská srdce – každé jiné",
+              "id": "vitři-mužská-srdce-každé-jiné",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kniha devátá • Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_014.html",
+      "words": 9327,
+      "chars": 56640,
+      "ideas": 250,
+      "role": "chapter",
+      "order": 13,
+      "prev": "chram_matky_bozi_v_parizi_013.html",
+      "next": "chram_matky_bozi_v_parizi_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kniha devátá",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I. Horečka",
+              "id": "ihorečka",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II. Hrbatý, jednooký, kulhavý",
+              "id": "iihrbatý-jednooký-kulhavý",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III. Hluchý",
+              "id": "iiihluchý",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV. Hlína a křišťál",
+              "id": "ivhlína-akřišťál",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V. Klíč k červené brance",
+              "id": "vklíč-kčervené-brance",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "VI. Pokračování kapitoly o klíči k červené brance",
+              "id": "vipokračování-kapitoly-oklíči-kčervené-brance",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kniha desátá • Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_015.html",
+      "words": 20302,
+      "chars": 126425,
+      "ideas": 652,
+      "role": "chapter",
+      "order": 14,
+      "prev": "chram_matky_bozi_v_parizi_014.html",
+      "next": "chram_matky_bozi_v_parizi_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kniha desátá",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I. V Bernardinské ulici má Gringoire",
+              "id": "ivbernardinské-ulici-mánbspgringoire",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II. Staňte se tulákem!",
+              "id": "iistaňte-senbsptulákem",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III. Ať žije veselost!",
+              "id": "iiiať-žije-veselost",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV. Neobratný přítel",
+              "id": "ivneobratný-přítel",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V. Ústraní, kde se modlí pan Ludvík Francouzský",
+              "id": "vústraní-kde-senbspmodlí-pan-ludvík-francouzský",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "VI. Mečík v kapse",
+              "id": "vimečík-vkapse",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "VII. Châteaupers na pomoc!",
+              "id": "viichâteaupers-nanbsppomoc",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kniha jedenáctá • Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_016.html",
+      "words": 12577,
+      "chars": 75786,
+      "ideas": 334,
+      "role": "chapter",
+      "order": 15,
+      "prev": "chram_matky_bozi_v_parizi_015.html",
+      "next": "chram_matky_bozi_v_parizi_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kniha jedenáctá",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I. Botička",
+              "id": "ibotička",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II. La creatura bella bianco vestita (Dante)4",
+              "id": "iila-creatura-bella-bianco-vestita-dante162",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III. Phoebova svatba",
+              "id": "iiiphoebova-svatba",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV. Quasimodova svatba",
+              "id": "ivquasimodova-svatba",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hugova poznámka k osmému francouzskému vydání z roku 1832 • Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_017.html",
+      "words": 1243,
+      "chars": 7751,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 16,
+      "prev": "chram_matky_bozi_v_parizi_016.html",
+      "next": "chram_matky_bozi_v_parizi_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hugova poznámka k osmému francouzskému vydání z roku 1832",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chrám Matky Boží v Paříži",
+      "file": "chram_matky_bozi_v_parizi_018.html",
+      "words": 50,
+      "chars": 319,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 17,
+      "prev": "chram_matky_bozi_v_parizi_017.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 143480,
+      "chars": 895643,
+      "ideas": 3911
+    },
+    "chapters": {
+      "words": 143470,
+      "chars": 895591,
+      "ideas": 3906
+    }
+  }
+}
