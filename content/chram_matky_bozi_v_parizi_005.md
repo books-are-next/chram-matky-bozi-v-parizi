@@ -1,6 +1,7 @@
 ---
 title: ''
 hiddenTitle: true
+contentType: prose
 ---
 
 _Je tomu několik let, co autor této knihy objevil při jedné návštěvě nebo spíše důkladné prohlídce chrámu Matky Boží v temném zákoutí jedné věže zvláštní, lidskou rukou do zdi vyryté slovo: ’АNÁГKH._

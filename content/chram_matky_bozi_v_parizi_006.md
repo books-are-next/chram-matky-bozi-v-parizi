@@ -1,5 +1,6 @@
 ---
 title: Kniha první
+contentType: prose
 ---
 
 ## I. Velký sál

@@ -1,5 +1,6 @@
 ---
 title: Kniha třetí
+contentType: prose
 ---
 
 ## I. Chrám Matky Boží

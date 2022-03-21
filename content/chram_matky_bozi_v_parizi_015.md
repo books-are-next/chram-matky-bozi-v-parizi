@@ -1,5 +1,6 @@
 ---
 title: Kniha desátá
+contentType: prose
 ---
 
 ## I. V Bernardinské ulici má Gringoire  

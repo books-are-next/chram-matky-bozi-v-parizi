@@ -1,5 +1,6 @@
 ---
 title: Kniha pátá
+contentType: prose
 ---
 
 ## I. Abbas beati Martini[^60]
