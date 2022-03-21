@@ -1,5 +1,6 @@
 ---
 title: Kniha šestá
+contentType: prose
 ---
 
 ## I. Nestranný pohled na tehdejší soudnictví

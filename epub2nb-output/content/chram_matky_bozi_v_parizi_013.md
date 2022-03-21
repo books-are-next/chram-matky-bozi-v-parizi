@@ -1,5 +1,6 @@
 ---
 title: Kniha osmá
+contentType: prose
 ---
 
 ## I. O tolaru proměněném v suchý list

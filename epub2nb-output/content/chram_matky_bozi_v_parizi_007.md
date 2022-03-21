@@ -1,5 +1,6 @@
 ---
 title: Kniha druhá
+contentType: prose
 ---
 
 ## I. Z Charybdy do Scylly

@@ -1,5 +1,6 @@
 ---
 title: Kniha sedmá
+contentType: prose
 ---
 
 ## I. O tom, jak je nebezpečné svěřit tajemství koze

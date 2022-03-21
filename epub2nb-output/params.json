@@ -238,7 +238,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Victor Hugo",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-01T09:16:23.520Z"
+      "modified": "2020-06-25T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -442,6 +442,6 @@
       "user": "books-are-next",
       "repo": "chram-matky-bozi-v-parizi"
     },
-    "generatedAt": 1643706985148
+    "generatedAt": 1647869586667
   }
 }

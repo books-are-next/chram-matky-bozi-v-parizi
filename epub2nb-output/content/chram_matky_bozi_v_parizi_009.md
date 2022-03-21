@@ -1,5 +1,6 @@
 ---
 title: Kniha čtvrtá
+contentType: prose
 ---
 
 ## I. Dobrá duše

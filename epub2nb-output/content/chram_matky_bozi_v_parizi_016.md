@@ -1,5 +1,6 @@
 ---
 title: Kniha jedenáctá
+contentType: prose
 ---
 
 ## I. Botička

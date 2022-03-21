@@ -1,5 +1,6 @@
 ---
 title: Kniha devátá
+contentType: prose
 ---
 
 ## I. Horečka
