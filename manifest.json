@@ -1,21 +1,40 @@
 {
-  "author": "Victor Hugo",
-  "edition": "beletrie",
-  "identifier": "hugo-chram-matky-bozi-v-parizi-95f1f80",
-  "languagecode": "cs",
-  "modified": "2022-02-01T08:07:40.187Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Chrám Matky Boží v Paříži",
-  "revision": "95f1f80",
+  "author": "Victor Hugo",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hugo-chram-matky-bozi-v-parizi-6af18dd",
+  "revision": "6af18dd",
+  "readingOrder": [
+    "promo.html",
+    "chram_matky_bozi_v_parizi_005.html",
+    "chram_matky_bozi_v_parizi_006.html",
+    "chram_matky_bozi_v_parizi_007.html",
+    "chram_matky_bozi_v_parizi_008.html",
+    "chram_matky_bozi_v_parizi_009.html",
+    "chram_matky_bozi_v_parizi_010.html",
+    "chram_matky_bozi_v_parizi_011.html",
+    "chram_matky_bozi_v_parizi_012.html",
+    "chram_matky_bozi_v_parizi_013.html",
+    "chram_matky_bozi_v_parizi_014.html",
+    "chram_matky_bozi_v_parizi_015.html",
+    "chram_matky_bozi_v_parizi_016.html",
+    "chram_matky_bozi_v_parizi_017.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Mar 21 2022 13:34:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647869660206
+    "date": "Thu May 12 2022 10:37:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351874897
   },
   "documents": [
     {
-      "title": "Chrám Matky Boží v Paříži",
-      "file": "chram_matky_bozi_v_parizi_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +42,7 @@
       "order": 0,
       "prev": null,
       "next": "chram_matky_bozi_v_parizi_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Chrám Matky Boží v Paříži",
@@ -41,7 +52,7 @@
       "ideas": 5,
       "role": "chapter",
       "order": 1,
-      "prev": "chram_matky_bozi_v_parizi_002.html",
+      "prev": "promo.html",
       "next": "chram_matky_bozi_v_parizi_006.html",
       "toc": [
         {
@@ -54,7 +65,7 @@
       ]
     },
     {
-      "title": "Kniha první • Chrám Matky Boží v Paříži",
+      "title": "Kniha první",
       "file": "chram_matky_bozi_v_parizi_006.html",
       "words": 13934,
       "chars": 89126,
@@ -117,7 +128,7 @@
       ]
     },
     {
-      "title": "Kniha druhá • Chrám Matky Boží v Paříži",
+      "title": "Kniha druhá",
       "file": "chram_matky_bozi_v_parizi_007.html",
       "words": 13880,
       "chars": 86821,
@@ -187,7 +198,7 @@
       ]
     },
     {
-      "title": "Kniha třetí • Chrám Matky Boží v Paříži",
+      "title": "Kniha třetí",
       "file": "chram_matky_bozi_v_parizi_008.html",
       "words": 10234,
       "chars": 66718,
@@ -222,7 +233,7 @@
       ]
     },
     {
-      "title": "Kniha čtvrtá • Chrám Matky Boží v Paříži",
+      "title": "Kniha čtvrtá",
       "file": "chram_matky_bozi_v_parizi_009.html",
       "words": 7490,
       "chars": 46997,
@@ -285,7 +296,7 @@
       ]
     },
     {
-      "title": "Kniha pátá • Chrám Matky Boží v Paříži",
+      "title": "Kniha pátá",
       "file": "chram_matky_bozi_v_parizi_010.html",
       "words": 7432,
       "chars": 48455,
@@ -320,7 +331,7 @@
       ]
     },
     {
-      "title": "Kniha šestá • Chrám Matky Boží v Paříži",
+      "title": "Kniha šestá",
       "file": "chram_matky_bozi_v_parizi_011.html",
       "words": 13297,
       "chars": 82885,
@@ -376,7 +387,7 @@
       ]
     },
     {
-      "title": "Kniha sedmá • Chrám Matky Boží v Paříži",
+      "title": "Kniha sedmá",
       "file": "chram_matky_bozi_v_parizi_012.html",
       "words": 18236,
       "chars": 112967,
@@ -453,7 +464,7 @@
       ]
     },
     {
-      "title": "Kniha osmá • Chrám Matky Boží v Paříži",
+      "title": "Kniha osmá",
       "file": "chram_matky_bozi_v_parizi_013.html",
       "words": 15123,
       "chars": 92594,
@@ -516,7 +527,7 @@
       ]
     },
     {
-      "title": "Kniha devátá • Chrám Matky Boží v Paříži",
+      "title": "Kniha devátá",
       "file": "chram_matky_bozi_v_parizi_014.html",
       "words": 9327,
       "chars": 56640,
@@ -579,7 +590,7 @@
       ]
     },
     {
-      "title": "Kniha desátá • Chrám Matky Boží v Paříži",
+      "title": "Kniha desátá",
       "file": "chram_matky_bozi_v_parizi_015.html",
       "words": 20302,
       "chars": 126425,
@@ -649,7 +660,7 @@
       ]
     },
     {
-      "title": "Kniha jedenáctá • Chrám Matky Boží v Paříži",
+      "title": "Kniha jedenáctá",
       "file": "chram_matky_bozi_v_parizi_016.html",
       "words": 12577,
       "chars": 75786,
@@ -698,7 +709,7 @@
       ]
     },
     {
-      "title": "Hugova poznámka k osmému francouzskému vydání z roku 1832 • Chrám Matky Boží v Paříži",
+      "title": "Hugova poznámka k osmému francouzskému vydání z roku 1832",
       "file": "chram_matky_bozi_v_parizi_017.html",
       "words": 1243,
       "chars": 7751,
@@ -718,11 +729,11 @@
       ]
     },
     {
-      "title": "Tiráž • Chrám Matky Boží v Paříži",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 157,
-      "chars": 997,
-      "ideas": 24,
+      "words": 133,
+      "chars": 826,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "chram_matky_bozi_v_parizi_017.html",
@@ -740,9 +751,9 @@
   ],
   "totals": {
     "all": {
-      "words": 143480,
-      "chars": 895643,
-      "ideas": 3911
+      "words": 143456,
+      "chars": 895472,
+      "ideas": 3904
     },
     "chapters": {
       "words": 143314,
