@@ -13,7 +13,7 @@ meta:
   publisherShort: mkp
   languageCode: cs
 readingOrder:
-  - chram_matky_bozi_v_parizi_002.html
+  - promo.html
   - chram_matky_bozi_v_parizi_005.html
   - chram_matky_bozi_v_parizi_006.html
   - chram_matky_bozi_v_parizi_007.html
