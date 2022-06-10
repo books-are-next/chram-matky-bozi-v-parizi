@@ -3,6 +3,8 @@ title: Kniha pátá
 contentType: prose
 ---
 
+<section>
+
 ## I. Abbas beati Martini[^60]
 
 Věhlas pátera Klaudia pronikl široko daleko. Skoro v téže době, kdy odmítl spatřit paní de Beaujeu, vynesl mu návštěvu, na kterou dlouho vzpomínal.
@@ -237,11 +239,15 @@ V patnáctém století se všechno mění.
 
 Lidská myšlenka objevuje nejen trvanlivější a odolnější prostředek, jak se uchovat, nýbrž i prostší a snadnější. Architektura je sesazena z trůnu. Kamenná písmena Orfeova jsou vystřídána olověnými písmeny Gutenbergovými.
 
-  
+</section>
+
+<section>
 
 KNIHA ZABIJE BUDOVU
 
-  
+</section>
+
+<section>
 
 Vynález knihtisku je největší událostí v dějinách. Je to matka revolucí. Je to naprosto nový vyjadřovací způsob lidstva, je to lidská myšlenka, jež odkládá jednu formu a obléká si jinou, je to úplná a definitivní výměna kůže onoho symbolického hada, který čas od časů Adamových představuje lidský rozum.
 
@@ -279,7 +285,9 @@ A tak abychom shrnuli, co jsme zatím řekli jen neúplně a kuse: lidské pok
 
 Tato budova je obrovská. Nevím, který statistik vypočítal, že kdyby se nastavěly na sebe všechny svazky vyšlé z knižního lisu od časů Gutenbergových, vyplnila by se tím vzdálenost mezi zemí a měsícem; ale o tomto druhu velikosti nechceme mluvit. A pokoušíme-li se nicméně utvořit si v duchu celkovou představu o úhrnném množství knihtiskařských výrobků až po naše dni, zdalipak se nám nejeví tento celek jako ohromná, o celý svět opřená stavba, na níž lidstvo pracuje bez oddechu a jejíž obrovský vrchol se ztrácí v hlubokých mlhách budoucnosti? Je to mraveniště duchů. Je to úl, kam přilétají se svým medem všecky obraznosti, ty zlaté včelky. Budova má tisíc poschodí. Tu a tam vidíme ústit do jejích schodišť temné podzemní chodby vědy, jež se protínají v jejích útrobách. Všude na jejím povrchu vidíme, jak umění hýří svými arabeskami, růžicemi a krajkovím. Každé jednotlivé dílo, ať se nám zdá jakkoli vrtošivé a osamocené, má tu své místo a svůj výstupek. Ze všeho vyplývá soulad. Od katedrály Shakespearovy až po mešitu Byronovu kupí se bez ladu a skladu na této metropoli světové myšlenky tisíce vížek. Vespod bylo zapsáno několik starých cenných děl lidstva, které stavitelství nezaznamenalo. Vlevo od vchodu byl zasazen starý Homérův basreliéf z bílého mramoru, napravo zdvíhá svých sedm hlav mnohojazyčná bible. O kus dál se ježí hydra Romancer a několik různorodých forem, Védy a Nibelungy. Ostatně zůstává tato zázračná budova věčně neukončena. Tiskařský lis, tento obří stroj, jenž bez ustání čerpá všechnu duševní mízu z lidské společnosti, chrlí neustále nový materiál k svému dílu. Celé lidské pokolení je na lešení. Každý duch je zedníkem. I ten nejposlednější vyplňuje mezeru nebo klade svůj kámen. Restif de la Bretonne přináší svou nůši odpadků. Každý den se zvýší stavba o novou vrstvu. Nezávisle na původním a osobním přínosu každého spisovatele jsou i příspěvky hromadné. Osmnácté století dává _Encyklopedii,_ Velká revoluce dává _Moniteur_. Ano, i to je stavba, jež roste a vrší se v nekonečných spirálách; i zde je matení jazyků, neustálá činnost, neúnavná práce, úporný zápas veškerého lidstva, útočiště slíbené lidskému duchu před novou potopou, před záplavou barbarů. Toť druhá Babylónská věž lidstva.
 
-  
+</section>
+
+<section>
 
 [^60]: Opat od blahoslaveného Martina; býval jím francouzský král.
 
@@ -318,3 +326,5 @@ Tato budova je obrovská. Nevím, který statistik vypočítal, že kdyby se nas
 [^77]: Stalo se totiž, že svět, sám sebe zničiv a odhodiv minulost, oblékl bělostný kněžský šat.
 
 [^78]: Burgundský kronikář, zemřel kolem r. 1050.
+
+</section>

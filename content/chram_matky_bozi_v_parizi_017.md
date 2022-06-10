@@ -3,6 +3,8 @@ title: "Hugova poznámka k\_osmému francouzskému vydání z\_roku 1832"
 contentType: prose
 ---
 
+<section>
+
 _Omylem bylo oznámeno, že prý toto vydání je rozšířeno o několik nových kapitol. Správně se mělo říci dosud neuveřejněných. Rozumíme-li totiž novými kapitolami nově napsané, pak kapitoly připojené k tomuto vydání nejsou nové. Autor je napsal zároveň s ostatním dílem, pocházejí z téže doby a zrodily se z téže myšlenky; byly od počátku součástí rukopisu Chrámu Matky Boží v Paříži. Nejen to, autorovi připadá nepochopitelné, proč by se k podobnému dílu měly dodatečně připojovat nějaké nové podrobnosti. Taková věc nevzniká nazdařbůh. Podle autorova mínění rodí se román se všemi svými kapitolami jaksi cestou nutnosti; právě tak jako se drama rodí se všemi scénami. Věřte, že není ani stínu libovůle v součtu jednotlivých částí, jež tvoří onen celek, onen tajemný mikrokosmos, jemuž říkáte drama nebo román. Díla toho druhu mají vyprýštit z jediného výtrysku a taková zůstat; roubování a navazování je jim na škodu. Jakmile je práce hotova, neměňte ji, neopravujte ji. Jakmile kniha vyjde, jakmile je pohlaví díla, mužské nebo jiné, určeno a prohlášeno, jakmile dítě po prvé vykuklo, zrodilo se, je tu, je tak a tak utvářeno, otec ani matka na něm nic nezmohou, patří vzduchu a slunci, nechte je žít nebo zemřít, jaké je. Nezdařila se vám vaše kniha? Tím hůř. Nepřidávejte nové kapitoly k nepodařené knize. Je neúplná? Měl jste ji doplnit při zrodu. Je váš strom pokroucený? Nenarovnáte ho. Trpí váš román úbytěmi? Není schopen života? Nevdechnete mu život, když mu chybí. Kulhá vaše drama? Věřte, nepřidělávejte mu dřevěnou nohu._
 
 _Autor pokládá za obzvlášť důležité, aby čtenářstvu bylo jasné, že připojené kapitoly nebyly napsány výslovně pro toto nové vydání. Důvod, proč nebyly uveřejněny v předcházejících vydáních, je velmi prostý. Svazek s těmito třemi kapitolami se totiž při tisku prvního vydání Chrámu Matky Boží v Paříži ztratil. Bylo tedy třeba buď je znovu napsat, nebo se bez nich obejít. Autor uvážil, že dvě z těchto kapitol, jež pro svou rozlehlost by měly určitý význam, jsou kapitoly umělecké a historické a nijak neporušují jádro dramatu a románu, že čtenář si nepovšimne jejich ztráty a že jediný autor bude znát tajemství této mezery. Rozhodl tedy obejít se bez nich. A pak, má-li se už přiznat ke všemu, zalekl se úkolu napsat tři ztracené kapitoly znovu. Připadalo mu snazší napsat nový román._
@@ -26,3 +28,5 @@ _Chrám Matky Boží v Paříži odkryl snad několik nových pohledů na stře
 _V Paříži 20. října 1832_
 
 [^163]: Hugem pozměněný citát z Horatia, u něhož zní: amphora coepit institui; currente rota cur urceus exit – začal tvořit amforu; hrnčířský kruh se točí, proč je z toho hrnec?
+
+</section>
