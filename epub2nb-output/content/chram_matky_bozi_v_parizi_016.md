@@ -3,6 +3,8 @@ title: Kniha jedenáctá
 contentType: prose
 ---
 
+<section>
+
 ## I. Botička
 
 Ve chvíli, kdy tuláci napadli chrám, Esmeralda spala. Avšak vzrůstající povyk kolem budovy a nepokojný mekot kozy, jež se probudila dřív, zburcovaly ji brzy ze spánku. Posadila se na lůžku, naslouchala, rozhlížela se; pak poděšena září a lomozem, vyběhla z komůrky a šla se podívat. Vzhled náměstí se svým příznačným mumrajem, zmatený noční útok, ohavný dav, poskakující jako hejno žab a ve tmě jen zpola viditelný, skřehotání tohoto chraplavého houfu, ojedinělé rudé pochodně, jež se míhaly a křižovaly v té tmě jako bludičky nad zamlženými močály, celý ten výjev připadal jí jako tajemná bitva přízraků z čarodějnických rejů proti kamenným obludám chrámovým. Od dětství živena pověrami cikánského kmene, myslila v prvním okamžiku, že překvapila noční strašidla při čarování. Zděšena běžela se tedy ukrýt do své komůrky a prosila lůžko, aby jí seslalo méně příšerný sen.
@@ -660,7 +662,9 @@ Pokud jde o záhadné zmizení Quasimoda, mohli jsme vypátrat pouze toto:
 
 Když asi za dva roky nebo za osmnáct měsíců po událostech, jimiž končí toto vyprávění, přišli do sklepení v Montfauconu vyhledat mrtvolu dva dny předtím oběšeného Oliviera Daňka, jemuž Karel VIII. po smrti milostivě dovolil, aby byl pochován v lepší společnosti, u svatého Vavřince, nalezli mezi těmi ohavnými kostlivci dvě kostry, z nichž jedna objímala podivným způsobem druhou. Jedna z nich, byla to kostra ženy, měla dosud na sobě několik cárů šatů z látky kdysi bílé a kolem krku náhrdelník z adrezarachových zrnek s malým hedvábným váčkem, ozdobeným zelenými skleněnými korálky, který byl otevřený a prázdný. Ty předměty měly tak nepatrnou cenu, že si je kat asi nechtěl vzít. Druhá kostra, která ji držela v těsném objetí, byla kostra muže. Všimli si, že měla pokřivenou páteř, hlavu vraženou mezi lopatkami a jednu nohu kratší. Neměla zlomený vaz a bylo jasné, že nejde o oběšence. Muž, jemuž kostra patřila, přišel sem tedy umřít. Když ho chtěli odtrhnout od kostry, již objímal, rozpadl se v prach.
 
-  
+</section>
+
+<section>
 
 [^159]: Sovy (Askalaf , postava z řeckých bájí, byl z trestu proměněn v sovu).
 
@@ -669,3 +673,5 @@ Když asi za dva roky nebo za osmnáct měsíců po událostech, jimiž končí 
 [^161]: Proti lakomství.
 
 [^162]: Krásné stvoření bílým rouchem oděné (z Dantovy „Božské komedie“).
+
+</section>

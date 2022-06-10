@@ -3,6 +3,8 @@ title: Kniha čtvrtá
 contentType: prose
 ---
 
+<section>
+
 ## I. Dobrá duše
 
 Bylo to jednoho krásného rána v neděli povelikonoční, v neděli Quasimodo, šestnáct let před počátkem tohoto příběhu, kdy v chrámu Matky Boží byl po mši položen malý živý tvoreček do dřevěných jesliček zapuštěných do dlažby po levé straně lodi, přímo proti oné velké soše svatého Kryštofa, ke které vzhlížela od roku 1413 klečící socha pana Antonína des Essarts s rytířskou zbrojí tak dlouho, dokud nepřišli na myšlenku skácet světce i věřícího. Sem do těchto dřevěných jesliček vystavovaly se tehdy nalezené děti, aby se jich ujala věřejná dobročinnost. Kdo chtěl, vzal si je tam. Před dřevěnými jesličkami byla měděná miska na milodary.
@@ -222,7 +224,9 @@ Hned nějaký potměšilý uličník riskoval svou kůži i své kosti jen pro 
 
 Ale nejčastěji si ani kněz, ani zvoník urážky nevšimli. Neboť k tomu, aby mohli všechny ty laskavosti zaslechnout, byl Quasimodo příliš hluchý a Klaudius příliš zamyšlený.
 
-  
+</section>
+
+<section>
 
 [^44]: Rozdávat políčky a vjíždět si do vlasů (citát z du Breula).
 
@@ -255,3 +259,5 @@ Ale nejčastěji si ani kněz, ani zvoník urážky nevšimli. Neboť k tomu, a
 [^58]: Některé urozené ženy, jimž nelze odepřít vstup bez pohoršení.
 
 [^59]: Lat. slov. hříčka: Aj, aj, Klaudius s kulhavým!
+
+</section>

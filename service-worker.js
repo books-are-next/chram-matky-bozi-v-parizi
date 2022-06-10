@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-6af18dd';
+const CACHE = 'cache-19f238c';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./chram_matky_bozi_v_parizi_005.html","./chram_matky_bozi_v_parizi_006.html","./chram_matky_bozi_v_parizi_007.html","./chram_matky_bozi_v_parizi_008.html","./chram_matky_bozi_v_parizi_009.html","./chram_matky_bozi_v_parizi_010.html","./chram_matky_bozi_v_parizi_011.html","./chram_matky_bozi_v_parizi_012.html","./chram_matky_bozi_v_parizi_013.html","./chram_matky_bozi_v_parizi_014.html","./chram_matky_bozi_v_parizi_015.html","./chram_matky_bozi_v_parizi_016.html","./chram_matky_bozi_v_parizi_017.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_chram_matky_bozi_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./chram_matky_bozi_v_parizi_005.html","./chram_matky_bozi_v_parizi_006.html","./chram_matky_bozi_v_parizi_007.html","./chram_matky_bozi_v_parizi_008.html","./chram_matky_bozi_v_parizi_009.html","./chram_matky_bozi_v_parizi_010.html","./chram_matky_bozi_v_parizi_011.html","./chram_matky_bozi_v_parizi_012.html","./chram_matky_bozi_v_parizi_014.html","./chram_matky_bozi_v_parizi_015.html","./chram_matky_bozi_v_parizi_013.html","./chram_matky_bozi_v_parizi_016.html","./chram_matky_bozi_v_parizi_017.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_chram_matky_bozi_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

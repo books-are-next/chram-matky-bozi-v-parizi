@@ -3,6 +3,8 @@ title: Kniha první
 contentType: prose
 ---
 
+<section>
+
 ## I. Velký sál
 
 Dnes je tomu tři sta čtyřicet osm let, šest měsíců a devatenáct dní, co se Pařížané probudili za hlaholu všech zvonů, vyzvánějících naplno v okruhu trojitých hradeb Starého města, Univerzitní čtvrti a Nového města.
@@ -832,7 +834,9 @@ Pak se dal na ústup, s hlavou sklopenou, ale poslední – jako generál, kte
 
 Když sestupoval po točitých schodech paláce, bručel si mezi zuby: „Tihle Pařížané, to je pěkná sebranka oslů a ťulpasů; přijdou na mystérie, a vůbec neposlouchají. Starají se o kdekoho na světě, o Kulhavého Špindíru, a kardinála, o Coppenola, o Quasimoda i o čerty v pekle – ale o Panenku Marii se nezajímají vůbec! Kdybych to byl věděl, vy čumilové, byl bych vám ukázal Panenky Marie! Přišel jsem, abych viděl obličeje, a viděl jsem jen samá záda. Být básníkem, a mít úspěch jako nějaký mastičkář! Je ovšem pravda, že Homér žebral po řeckých osadách a Ovidius zemřel ve vyhnanství u Moskvanů. Ale ať se do pekla propadnu, jestli vím, kdo je ta jejich Esmeralda! Předně, jaké je to slovo? Myslím, že cikánské!“
 
-  
+</section>
+
+<section>
 
 [^1]: Slovo gotický ve smyslu, jak se ho dnes všeobecně užívá, je zcela nevhodné, ale zcela vžité. Přijímáme je tedy a označujeme jím jako všichni ostatní architekturu druhé poloviny středověku, jejímž charakteristickým znakem je lomený oblouk a jež následuje po architektuře první poloviny, založené na plném oblouku. _(Poznámka autorova.)_
 
@@ -863,3 +867,5 @@ Když sestupoval po točitých schodech paláce, bručel si mezi zuby: „Tihle 
 [^14]: Házíte svině Markétě (lat. margarita = perla i Markéta).
 
 [^15]: Podle chůze se pozná pravá bohyně.
+
+</section>

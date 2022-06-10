@@ -3,6 +3,8 @@ title: Kniha šestá
 contentType: prose
 ---
 
+<section>
+
 ## I. Nestranný pohled na tehdejší soudnictví
 
 Přešťastným člověkem byl léta Páně 1482 urozený pan Robert d’Estouteville, rytíř, pán na Beyne, baron z Yvri a Saint-Andry v Marche, královský rada a komoří a strážce bezpečnosti a soudnictví města Paříže. Ten krásný úřad pařížského hejtmana, považovaný spíše za vrchnost než za službu, dostal od krále takřka před sedmnácti lety, v roce komety[^79], dne 7. listopadu 1465. Jak praví Joannes Loemnoeus, _„dignitas, quae cum non exigua potestate politiam concernente, atque praerogativis multis et juribus conjuncta est“_[^80]_._ Bylo podivuhodné, že v roce 1482 měl šlechtic královský úřad, jehož jmenovací listiny pocházely z doby, kdy se nemanželská dcera Ludvíka XI. vdávala za pana levobočka bourbonského. Téhož dne, kdy Robert d’Estouteville vystřídal Jakuba de Villiers v úřadě pařížského hejtmana, mistr Jan Dauvet nahradil pana Hélye de Thorrettes ve funkci prvního předsedy nejvyššího soudního dvora, Jehan Jouvenel des Ursins vypudil Petra de Morvilliers z úřadu francouzského kancléře, Regnault des Dormans vytlačil Petra Puy z úřadu řádného zpravodaje soudu královského dvora. Avšak kolik hlav se vystřídalo v předsednictví, kancléřství a zpravodajství od té doby, co Robert d’Estouteville držel pařížské hejtmanství! Bylo mu _dáno v opatrování,_ jak pravily jmenovací listiny; a on je jistě dobře opatroval. Držel se ho jako klíště, ztělesňoval je a ztotožnil se s ním tak dokonale, že unikl té vášnivé zálibě ve změnách, jíž byl posedlý Ludvík XI., král nedůvěřivý, hašteřivý a pracovitý, který se snažil udržet pružnost své vlády častým jmenováním a sesazováním. Ba statečný rytíř Robert ďEstouteville dosáhl dokonce pro svého syna nástupnictví svého úřadu a již po dvě léta bylo uvedeno jméno urozeného pána Jakuba d’Estouteville, královského panoše, vedle jeho jména v čele rejstříku úředníků pařížského hejtmanství. Jistě vzácná a zcela zvláštní přízeň! Je pravda, že Robert d’Estouteville byl dobrý voják, že loajálně zdvihl korouhev do boje proti _lize obecného blaha_ a že věnoval královně překrásného cukrového jelena v den jejího příjezdu do Paříže roku 14… Navíc měl dobrého přítele v panu Tristanu l’Hermite, vrchním maršálku královského dvora. A tak vedl pan Robert velmi příjemný a zábavný život. Měl především velmi dobrý plat, na který se upínaly a jako další hrozny na jeho vinici navěšovaly příjmy z civilních a trestních soudních archivů pařížského hejtmanství, dále příjmy z civilních a trestních sporů v soudních síních Embas v Châteletu, aniž počítáme nějaké to mýto v Mantu a v Corbeilu a výtěžky z poplatků za mletí v Paříži a z dávek dohlížitelům na prodej a míru dříví a soli. A přidejte k tomu potěšení, že mohl při úředních objížďkách městem stavět na odiv a mezi zpola červenými a zpola hnědými obleky konšelů a obvodních velitelů městské stráže okázale ukazovat své krásné brnění, jemuž se ještě dnes můžete obdivovat, neboť je vytesáno na jeho náhrobku v opatství valmontském v Normandii, i přilbu, zcela zprohýbanou z bitvy u Montlhéry. A pak, což to byla maličkost, býti svrchovaným pánem dvanáctičlenné osobní stráže, vrátného a strážce v Châteletu, dvou vyslýchajících soudců v Châteletu, jimž se říkalo _auditores Castelleti_[^81]_,_ šestnácti komisařů šestnácti městských čtvrtí, žalářníka v Châteletu, čtyř lenních strážníků, sto dvaceti jízdních strážníků, sto dvaceti strážníků s práčaty i konečně velitele stráže s jeho stráží, záložní stráží, přední stráží a zadní stráží? Cožpak to byla maličkost, vykonávat vyšší i nižší spravedlnost, mít právo pranýřovat, věšet a vláčet ulicemi, nečítajíc v to pravomoc první instance v menších sporech šlechty, _in prima instancia_[^82], jak praví listiny v pařížském vikomtství, tak slavně obdařeném sedmi šlechtickými soudními obvody? Je možno si představit něco příjemnějšího než vydávat zatykače a rozsudky, jak činil každodenně pan Robert d’Estouteville ve velikém Châteletu pod širokými a sraženými lomenými oblouky Filipa Augusta? A jíti pak, jak to dělával každého večera, do toho rozkošného domu v ulici Galilejské v sousedství královského paláce, kterýžto dům měl po své ženě, paní Ambrosii de Loré, aby si tu odpočinul po námaze z toho, že poslal nějakého chudáka strávit noc do „oné komůrky v ulici U rasovny, které používali hejtmané a konšelé pařížští s oblibou jako vězení a jež byla jedenáct stop dlouhá, sedm stop a čtyři palce široká a jedenáct stop vysoká“.[^83]
@@ -123,11 +125,15 @@ Latinský nápis, vepsaný do zdi podle tehdejší módy, hlásal vzdělanému c
 
 Poněvadž cela vytesaná do zdi Rolandovy věže neměla dveří, vyryli tedy nad okno velkými latinskými písmeny:
 
-  
+</section>
+
+<section>
 
 TU ORA
 
-  
+</section>
+
+<section>
 
 Lid pak, jehož zdravý smysl nevidí na věcech tolik jemných odstínů a který s oblibou překládá slova _Ludovico Magno_[^91] slovy _Brána svatého Diviše,_ dal této černé, temné a vlhké kobce jméno „Trou-aux-Rats[^92]“ – Myší díra. Výklad poněkud méně vznešený, ale zato malebnější.
 
@@ -598,7 +604,9 @@ U Velkého mostu se Mahietta, vracející se s oběma družkami, pojednou zast
 
 „To je hrozné dítě,“ řekla matka usměvavě a káravě zároveň. – „Víte, Oudardo, že on už sní docela sám všechny třešně se stromu v naší zahradě v Charlerange? Však jeho dědeček říká, že z něho bude vojevůdce! – Jestli tě ještě jednou přistihnu, Eustachu! – Jdi, ty hrdino!“
 
-  
+</section>
+
+<section>
 
 [^79]: Je to táž kometa, která se objeví opět roku 1835 a na jejíž zažehnání nařídil papež Kalixt, strýc Borgiův, veřejné modlitby (poznámka V. Huga).
 
@@ -631,3 +639,5 @@ U Velkého mostu se Mahietta, vracející se s oběma družkami, pojednou zast
 [^93]: Nestejnoměrnými kroky.
 
 [^94]: Hluchý je hloupý.
+
+</section>

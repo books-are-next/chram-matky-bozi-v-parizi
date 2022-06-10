@@ -3,6 +3,8 @@ title: Kniha sedmá
 contentType: prose
 ---
 
+<section>
+
 ## I. O tom, jak je nebezpečné svěřit tajemství koze
 
 Uplynulo několik neděl.
@@ -271,11 +273,15 @@ Mezitím přilákala Bérangèra, jíž si nikdo nevšímal, kouskem marcipánu 
 
 Lilie přiběhla a zachvěla se. Písmena seřazená na podlaze tvořila slovo:
 
-  
+</section>
+
+<section>
 
 PHOEBUS
 
-  
+</section>
+
+<section>
 
 „To napsala koza?“ zeptala se chvějícím se hlasem.
 
@@ -517,11 +523,15 @@ Přejel si rukou čelo, jako by chtěl zapudit myšlenku, jež ho sužovala. Pak
 
 A zlostně kladivo odhodil. Pak klesl do křesla a na stůl, takže se Janovi úplně ztratil za ohromným opěradlem. Po několik minut viděl na knize jen jeho křečovitě zaťatou pěst. Pojednou se páter Klaudius zvedl, vzal do ruky kružidlo a vyryl mlčky na zeď velkými písmeny toto řecké slovo:
 
-  
+</section>
+
+<section>
 
 ’АNÁГKH
 
-  
+</section>
+
+<section>
 
 „Můj bratr se zbláznil,“ řekl si Jan; „bylo by prostší napsat: _Fatum._ Každý nemusí umět řecky.“
 
@@ -762,11 +772,15 @@ Arcijáhen se jal nádobku prohlížet. „Co to vyryl na ten kelímek? Och! Och
 
 „Buďte klidný,“ řekl Charmolue s úsměvem. „Jak se vrátím, dám ho zas přivázat na kožené lůžko. Ale je to ďábelský člověk. Unavuje již samého Pierrata Torterua, a ten má silnější ruce než já. Jak říká ten dobrák Plautus:
 
-  
+</section>
+
+<section>
 
 _Nudus vinctus, centum pondo, es quando pendes per pedes.[^119]_
 
-  
+</section>
+
+<section>
 
 Výslech lámáním na kole! To je to nejlepší, co máme. Nemine ho.“
 
@@ -1204,7 +1218,9 @@ V okamžiku, kdy se jí zavíraly oči a ztrácela vědomí, zdálo se jí, ž
 
 Když přišla k sobě, byla obklopena vojáky noční hlídky; kapitána zbroceného krví odnášeli, kněz zmizel; okno v pozadí světnice, obrácené k řece, bylo dokořán otevřené; kdosi zvedl plášť, o němž se myslilo, že patří důstojníkovi, a kolem sebe slyšela hlasy: „Nějaká čarodějnice probodla kapitána!“
 
-  
+</section>
+
+<section>
 
 [^95]: Živ se sama.
 
@@ -1273,3 +1289,5 @@ Když přišla k sobě, byla obklopena vojáky noční hlídky; kapitána zbroc
 [^127]: Biskup autunský.
 
 [^128]: Vyznávám.
+
+</section>

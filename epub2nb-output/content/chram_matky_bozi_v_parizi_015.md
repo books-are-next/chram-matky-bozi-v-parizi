@@ -3,6 +3,8 @@ title: Kniha desátá
 contentType: prose
 ---
 
+<section>
+
 ## I. V Bernardinské ulici má Gringoire  
 řadu dobrých nápadů
 
@@ -304,11 +306,15 @@ V okamžiku, kdy kráčel po klášterním dvoře pod oknem bratrovy cely, sly�
 
 Sklep byl tedy krčmou. Sestupovalo se tam nízkými dveřmi a po schodech tak kostrbatých jako klasický alexandrin. Nade dveřmi byla na způsob vývěsního štítu podivuhodná mazanice představující nové haléře a zabitá kuřata s tímto žertovným nápisem dole:
 
-  
+</section>
+
+<section>
 
 _U zvoníků za zemřelé._
 
-  
+</section>
+
+<section>
 
 Jednoho večera, kdy na všech pařížských zvonicích zvonili večerní klekání, byli by vojáci noční hlídky mohli pozorovat, kdyby jim bylo dopřáno vstoupit do obávanéno Dvora divů, že v krčmě tuláků je ještě větší hluk než obyčejně, že se tam pije víc a kleje líp. Venku na náměstí bylo mnoho tiše se bavících skupin, jako když se osnuje velký plán, a tu a tam seděl na bobku nějaký chlapík a brousil o dlažbu špatné ostří nože.
 
@@ -1262,7 +1268,9 @@ Když Quasimodo, jenž nepřestal ani na okamžik bojovat, viděl tu porážku, 
 
 Když vstoupil do komůrky, našel ji prázdnou.
 
-  
+</section>
+
+<section>
 
 [^142]: O tesání kamenů.
 
@@ -1297,3 +1305,5 @@ Když vstoupil do komůrky, našel ji prázdnou.
 [^157]: Tep silný, krátký, zrychlený, nepravidelný.
 
 [^158]: Oblehatel Turínu a zároveň obležený.
+
+</section>

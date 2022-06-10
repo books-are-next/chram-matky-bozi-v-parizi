@@ -3,6 +3,8 @@ title: Kniha devátá
 contentType: prose
 ---
 
+<section>
+
 ## I. Horečka
 
 Klaudius Frollo nebyl již v chrámě, když jeho adoptivní syn tak rázně rozťal osudnou smyčku, do níž nešťastný arcijáhen lapil cikánku a do níž se chytil sám. Vrátiv se do sakristie, strhl ze sebe albu, ornát i štolu, hodil vše do rukou užaslého kostelníka, proklouzl tajnou klášterní brankou, poručil převozníkovi na Ostrohu, aby ho převezl na levý břeh Seiny, a tu se pohroužil do příkrých uliček Univerzitní čtvrti nevěda, kam jde, potkávaje na každém kroku hloučky mužů a žen, kteří se vesele tlačili k mostu svatého Michala v naději, že přijdou ještě včas, aby viděli věšet čarodějku; byl bledý, vyjevený, zmatenější, slepější a plašší než noční pták vyplašený a pronásledovaný za bílého dne houfem dětí. Nevěděl už, kde je, zda myslí nebo zda sní. Šel, kráčel, běžel, pouštěje se nazdařbůh kteroukoliv ulicí, hnán jen neustále kupředu myšlenkou na to hrozné náměstí Grève, jež cítil nejasně za sebou.
@@ -474,8 +476,12 @@ Bylo tomu tak. Páter Klaudius žárlil na Quasimoda.
 
 Opakoval zádumčivě svůj osudný výrok: „Nikdo ji nedostane!“
 
-  
+</section>
+
+<section>
 
 [^140]: Protože palouk byl mnichům z kláštera sv. Heřmana hydrou, která v boji se studenty vždy znovu hlavy zdvíhala.
 
 [^141]: Šťastný starče!
+
+</section>

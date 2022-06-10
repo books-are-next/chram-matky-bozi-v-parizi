@@ -3,6 +3,8 @@ title: Kniha třetí
 contentType: prose
 ---
 
+<section>
+
 ## I. Chrám Matky Boží
 
 Není pochyby, že Chrám Matky Boží v Paříži je ještě dnes velkolepá a nádherná stavba. Ale třebaže si i ve stáří uchovala svou krásu, těžko se ubránit povzdechu a rozhořčení nad tolikerým pustošením a mrzačením, jež této památné stavbě svorně připravili čas i lidé bez úcty ke Karlu Vilému, který k ní položil kámen základní, i k Filipu Augustovi, který položil kámen poslední.
@@ -155,7 +157,9 @@ A chcete-li, aby vám staré město poskytlo dojem, který vám nové město u�
 
 Opravdu, je to opera, jež stojí za poslechnutí. Hluk, který obyčejně vystupuje z Paříže za dne, toť město, které mluví; za noci je to město, jež oddychuje; zde to je město, jež zpívá. Naslouchejte dobře tomuto fortissimu zvonic; přimyslete si k tomu všemu šum půl milionu lidí, věčně naříkající řeku, nekonečné závany větru, vážný a vzdálený kvartet čtyř lesů rozložených na okrajových pahorcích jako ohromné podstavce varhan; utlumte tam pak jako v polostínu vše, co je v té ústřední zvonkové hře příliš drsné a ostré, a řekněte, zdali znáte na světě něco bohatšího, radostnějšího, zářivějšího a oslnivějšího než tento vodopád zvonů a zvonků, tu výheň hudby, těch deset tisíc kovových hlasů zpívajících najednou v kamenných flétnách tři sta stop vysokých, než toto město, jež je jediným orchestrem, než tuto symfonii, jež burácí jako bouře.
 
-  
+</section>
+
+<section>
 
 [^35]: Čas hlodá, člověk nahlodává ještě víc (parafráze citátu z Ovidiových „Proměn“: „Tempus edax rerum“– Čas vše pohlcuje).
 
@@ -180,3 +184,5 @@ Nemají sice všechny jednu tvář, / ale také ne rozdílnou, atd.
 [^42]: Žalář Glaucinův.
 
 [^43]: S bolestí a rozhořčením jsme zjistili, že se pomýšlí na to, tento nádherný palác rozšířit, přeměnit a přestavět, to znamená zničit. Dnešní architekti mají příliš těžkou ruku, aby se mohli dotýkat tak jemných renesančních děl. Doufáme stále, že se toho neodváží. Ostatně zboření Tuilerií by bylo za našich dnů nejen surovým činem, za který by se rděl i opilý Vandal, ale byla by to zrada. Tuilerie nejsou jen mistrovským uměleckým dílem šestnáctého století, jsou stránkou z dějin devatenáctého století. Tento palác nenáleží už králi, ale lidu. Nechme ho takový, jaký je. Naše revoluce ho dvakrát poznamenala na čele. Na jednom z jeho dvou průčelí jsou kule z 10. srpna, na druhém jsou kule z 29. července. Je posvátný. (V Paříži 7. dubna 1831, poznámka k pátému vydání.)
+
+</section>

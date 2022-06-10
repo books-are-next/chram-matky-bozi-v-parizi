@@ -3,6 +3,8 @@ title: Kniha osmá
 contentType: prose
 ---
 
+<section>
+
 ## I. O tolaru proměněném v suchý list
 
 Gringoire a celý dvůr divů byli smrtelně zneklidněni. Už dobrý měsíc nevěděli, co se stalo s Esmeraldou, nad níž se cikánský vévoda se svými přáteli tuláky velice rmoutil, nevěděli, co se stalo s kozičkou, což ještě zvětšovalo bolest Gringoirovu. Jednoho večera cikánka zmizela a od té doby nebylo po ní ani vidu, ani slechu. Všechno pátrání bylo bezvýsledné. Někteří zlomyslní mluvkové vykládali Gringoirovi, že onoho večera ji potkali nedaleko Svatomichalského mostu, jak šla s nějakým důstojníkem; leč náš cikánsky dosazený manžel byl nevěřícím filozofem, nehledě k tomu, že sám nejlépe věděl, jak zatvrzelou pannou je jeho žena. Mohl dobře posoudit, jaká neotřesitelná cudnost pramení ze spojení oněch dvou mocných sil, totiž amuletu a cikánčiny počestnosti, a dovedl si matematicky vypočítat, jak by se tato zdvojmocněná cudnost dovedla bránit. V tom ohledu byl tedy klidný.
@@ -787,7 +789,9 @@ Po několika vítězoslavných okamžicích zmizel však náhle Quasimodo i se 
 
 „Sláva! Sláva!“ křičel zase lid a tento nesmírný jásot naplňoval údivem i dav shromážděný na druhém břehu řeky, na náměstí Grève, i kajícnici, jež stále čekala s očima upřenýma na šibenici.
 
-  
+</section>
+
+<section>
 
 [^129]: O tvarech pravidelných a nepravidelných.
 
@@ -810,3 +814,5 @@ Po několika vítězoslavných okamžicích zmizel však náhle Quasimodo i se 
 [^138]: Nuže jdi, duše zbloudilá, a Bůh ti buď milostiv.
 
 [^139]: Všechny víry tvé a proudy tvé přešly nade mnou.
+
+</section>

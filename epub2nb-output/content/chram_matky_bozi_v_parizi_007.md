@@ -3,6 +3,8 @@ title: Kniha druhá
 contentType: prose
 ---
 
+<section>
+
 ## I. Z Charybdy do Scylly
 
 V lednu začíná noc brzy. Když Gringoire vyšel z paláce, v ulicích byla již tma. Ta černá noc mu přišla vhod; už se těšil, jak zapadne do nějaké temné a opuštěné uličky, aby se tam po libosti oddal úvahám a aby tam filozof přiložil první náplast na ránu básníka. Filozofie byla ostatně jeho jediným útočištěm, neboť neměl, kam by hlavu složil. Po tom halasném nezdaru svého divadelního pokusu neměl odvahu vrátit se do svého bytu v ulici „Říční sýpky“ naproti „Sennému přístavu“, kde bydlil v té dobré naději, že tím, co mu byl dlužen pan královský správce za jeho svatební báseň, zaplatí mistru Vilému Jemnostpánovi, nájemci pařížského dobytčího mýta, dlužné nájemné za šest měsíců. Bylo to právě dvanáctkrát tolik, co obnášelo celé jeho vezdejší jmění, včetně kalhot, košile a baretu. Když tak chvíli přemýšlel, prozatímně přikrčen pod okénkem vězení správce pokladu v Svaté kapli, kde by dnešní noci hlavu složil (měl přece na vybranou celou dlažbu pařížskou), vzpomněl si, že minulý týden spatřil u vrat jednoho soudního rady ve Vetešnické ulici malý stupínek, z něhož se vystupuje na mezka, a že si řekl, že tento kámen bude v případě potřeby výborným polštářem pro žebráka nebo básníka. Poděkoval Prozřetelnosti, že mu vnukla tak skvělou myšlenku; když se však chystal přejít náměstí Soudního paláce, aby se dostal do klikatého bludiště Starého města, kde se hadovitě proplétají všechny ty staré sesterské uličky, Bednářská, Starosoukenická, Vetešnická, Židovská a jiné, jež do dneška stojí i se svými devítipatrovými domy, spatřil průvod papeže bláznů, jak rovněž vychází z paláce a s náramným křikem, za mocného plápolu pochodní a za zvuků jeho hudby hrne se přes náměstí. Tato podívaná rozjitřila znovu jeho poraněnou ješitnost; dal se na útěk. Všechno, co mu v jeho roztrpčenosti nad divadelním neúspěchem připomínalo dnešní slavnost, popuzovalo ho a drásalo jeho krvavou ránu.
@@ -884,7 +886,9 @@ Obešel světničku. Jediným vhodným kusem nábytku pro spaní byla dosti dlou
 
 „Co se dá dělat!“ řekl si a uvelebil se co nejpohodlněji. „Musím se smířit s osudem. Je to ale divná svatební noc. Škoda. V tom sňatku s rozbitým džbánem bylo něco prostého a starodávného, co se mi líbilo.“
 
-  
+</section>
+
+<section>
 
 [^16]: Polibky za rány.
 
@@ -937,3 +941,5 @@ luky napínali.
 [^33]: Správně rostlina azédarac, z jejíchž plodů se dělaly růžence a náhrdelníky.
 
 [^34]: Esmeralda = smaragd (šp.).
+
+</section>
