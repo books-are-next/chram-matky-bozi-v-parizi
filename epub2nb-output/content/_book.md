@@ -12,6 +12,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   languageCode: cs
+  isbn: 978-80-274-2489-4
 readingOrder:
   - promo.html
   - chram_matky_bozi_v_parizi_005.html

@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hugo-chram-matky-bozi-v-parizi-f7c16d9",
-  "revision": "f7c16d9",
+  "identifier": "hugo-chram-matky-bozi-v-parizi-830eba5",
+  "revision": "830eba5",
   "readingOrder": [
     "promo.html",
     "chram_matky_bozi_v_parizi_005.html",
@@ -28,8 +28,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 11:52:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654948365178
+    "date": "Mon Jun 13 2022 21:31:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655155892144
   },
   "documents": [
     {
@@ -731,9 +731,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 91,
-      "chars": 593,
-      "ideas": 7,
+      "words": 128,
+      "chars": 793,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "chram_matky_bozi_v_parizi_017.html",
@@ -751,9 +751,9 @@
   ],
   "totals": {
     "all": {
-      "words": 143414,
-      "chars": 895239,
-      "ideas": 3894
+      "words": 143451,
+      "chars": 895439,
+      "ideas": 3903
     },
     "chapters": {
       "words": 143314,
