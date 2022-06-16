@@ -9,7 +9,8 @@
       "edition": "beletrie",
       "publisherShort": "mkp",
       "languageCode": "cs",
-      "isbn": "978-80-274-2489-4"
+      "isbn": "978-80-274-2489-4",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola\n",
@@ -443,6 +444,6 @@
       "user": "books-are-next",
       "repo": "chram-matky-bozi-v-parizi"
     },
-    "generatedAt": 1655271116997
+    "generatedAt": 1655364107662
   }
 }
