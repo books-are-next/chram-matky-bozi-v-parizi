@@ -29,7 +29,7 @@ readingOrder:
   - chram_matky_bozi_v_parizi_015.html
   - chram_matky_bozi_v_parizi_016.html
   - chram_matky_bozi_v_parizi_017.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
